@@ -1,0 +1,1 @@
+CS2 Skin Preview & Customization Utility for Weapons and Inventory is a visual tool for exploring and customizing weapon and inventory appearances in Counter-Strike 2, designed for previews, loadout styling, and cosmetic experimentation.
